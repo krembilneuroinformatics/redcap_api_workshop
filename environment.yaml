@@ -1,4 +1,5 @@
-- pycap
-- requests
-- pandas
-- matplotlib
+name: redcap-env
+dependencies:
+  - numpy
+  - pandas
+  - requests
