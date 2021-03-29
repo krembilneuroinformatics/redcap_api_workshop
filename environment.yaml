@@ -1,6 +1,6 @@
 name: redcap-env
 dependencies:
-  - numpy
-  - pandas
-  - matplotlib
   - requests
+  - pandas
+  - numpy
+  - matplotlib
